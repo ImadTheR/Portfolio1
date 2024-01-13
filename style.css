@@ -1078,20 +1078,10 @@ h1.boja-loga {
 
 
 
-.whatsapp-link {
-    position: relative;
-    display: flex;
-    align-items: center;
-    color: #4CAF50; /* Couleur verte */
-  
-  }
-  
-  .whatsapp-link i {
-    color: #4CAF50; /* Couleur verte */
-    margin-right: 5px; /* Espace à droite de l'icône */
-    margin-bottom: -2px; /* Ajustement vertical vers le bas */
-  }
+
 
   .map {
     float: left;
 }
+
+
